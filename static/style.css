@@ -71,7 +71,12 @@
     margin-left:-700px;
     line-height: 70px;
   }
-  
+  .bigimg{
+    position: absolute;
+    height: 500px;
+    left:70vw;
+    top:15vh;
+  }
   .banner h2 {
     font-size: 48px;
   }
