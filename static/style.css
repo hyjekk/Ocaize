@@ -193,3 +193,27 @@
     color: #0f0326;
     text-decoration: none;
   }
+  
+  @media (max-width: 1200px) {
+    .button{
+      scale: 250%;
+      margin-left:-400px;
+    }
+    .bigimg{
+      position: absolute;
+      scale:150%;
+    }
+    .banner{
+      margin-top:-200px;
+    }
+    .quote{
+      margin-left:-600px;
+      margin-bottom:100px;
+    }
+    .aboutus{
+      color: rgba(255, 0, 0, 0);
+    }
+    .productstitle{
+      color: rgba(0,0,0,0)
+    }
+  }
